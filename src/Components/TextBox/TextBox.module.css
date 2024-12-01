@@ -1,0 +1,79 @@
+:root {
+  --text-box-label-backgroud: white;
+  --text-box-label-color: #0d0d0d;
+  --text-box-input-border: #7e7e7e;
+  --text-box-input-placeholder-color: black;
+  --text-box-input-opaque-border: #bebebe;
+  --text-box-input-opaque-placeholder-color: #7e7e7e;
+}
+
+.textBoxContainer {
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.textBoxLabel {
+  position: absolute;
+  top: -10px;
+  left: 10px;
+  background-color: var(--text-box-label-backgroud);
+  padding: 0 5px;
+  font-size: 14px;
+  color: var(--text-box-label-color);
+  z-index: 1;
+}
+
+.textBoxInputWrapper {
+  position: relative;
+}
+
+.textBoxInput {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid var(--text-box-input-border);
+  border-radius: 4px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.textBoxInput::placeholder {
+  color: var(--text-box-input-placeholder-color);
+  opacity: 1;
+}
+
+.textBoxInput:focus::placeholder {
+  opacity: 0;
+}
+
+.textBoxInputOpaque {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid var(--text-box-input-opaque-border);
+  border-radius: 4px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.textBoxInputOpaque::placeholder {
+  color: var(--text-box-input-opaque-placeholder-color);
+  opacity: 1;
+}
+
+.textBoxInputOpaque:focus::placeholder {
+  opacity: 0;
+}
+
+.textBoxIcon {
+  position: absolute;
+  top: 50%;
+  left: 12px;
+  transform: translateY(-50%); /* centers vertically within the input */
+  width: 20px;
+  height: 20px;
+  pointer-events: none; /* ensures the icon doesn't interfere with clicks */
+}
+
+.textBoxInputWithIcon {
+  padding-left: 40px;
+}

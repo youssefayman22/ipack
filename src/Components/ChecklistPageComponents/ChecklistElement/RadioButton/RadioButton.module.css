@@ -1,0 +1,17 @@
+.button {
+  width: 1em;
+  height: 1em;
+  background-color: white;
+  border-radius: 50%;
+  vertical-align: middle;
+  border: 1px solid var(--black);
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.button:checked {
+  background-color: var(--black);
+}

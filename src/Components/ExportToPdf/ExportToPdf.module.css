@@ -1,0 +1,14 @@
+/* ExportToPDF.module.css */
+.exportButton {
+    position: fixed;
+    bottom: 50px;
+    right: 70px;
+    background-color: var(--slider-track-color)!important;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    z-index:9;
+  }
+  

@@ -1,0 +1,80 @@
+/*style the internal component */
+
+  .ant-slider{
+    margin-left: 20px;
+  }
+  .ant-slider-track {
+    background-color: var(--slider-track-color) !important;
+    height: 1px !important;
+    top: 0px;
+
+  }
+  .ant-slider-rail {
+    opacity: 1;
+    background-color: var(--slider-rail-color) !important;
+    height: 1px !important;
+    margin-left: 10px !important;
+    top: 0px;
+  }
+  
+  .ant-slider-handle::after {
+    background-color: var(--handle-color) !important;
+    color: var(--handle-color) !important;
+    border-color: var(--handle-color) !important;
+    width: 18px !important; 
+    height: 18px !important; 
+    border-radius: 50% !important; 
+    margin-top: -9px !important;
+    box-shadow: none;
+  }
+  
+  .ant-slider-handle {
+    box-shadow: none !important;
+    border-color: var(--handle-color) !important; 
+    outline: none !important;
+    margin:0px;
+  }
+  
+  .ant-slider-handle:hover,
+  .ant-slider-handle:focus,
+  .ant-slider-handle:active {
+    box-shadow: none !important;
+    border-color: var(--handle-color) !important;
+    outline: none !important;
+  }
+  
+  .ant-slider-dot {
+    opacity: 1 !important;
+    background-color: var(--dot-color) !important;
+    width: 18px !important; 
+    height: 18px !important; 
+    border-radius: 50% !important; 
+    margin-top: -10px !important;
+    box-shadow: none;
+    margin-left: 3px;
+    margin-right: 0px;
+  }
+  
+  .title {
+    opacity: 1;
+    color: var(--title-color);
+    font-size: 0.9rem;
+    font-weight: 400;
+    letter-spacing: 0px;
+    text-align: left;
+    line-height: 18px;
+    font-family: 'Arial';
+    margin-bottom: 30px !important;
+    
+  }
+  
+  .ant-slider-mark {
+    opacity: 1 !important;
+    color: var(--mark-color) !important;
+    font-family: "Arial" !important;
+    font-size: 16px !important;
+    line-height: 22px !important;
+    margin-top: 10px;
+    white-space: nowrap;
+  }
+

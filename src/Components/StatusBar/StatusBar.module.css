@@ -1,0 +1,137 @@
+.status-bar {
+  height: 4px;
+  background-color: rgba(190, 190, 190, 1);
+  border-radius: 2px;
+  overflow: hidden;
+  width: 100%;
+  opacity: 1;
+  margin-bottom: 0px;
+}
+
+.progress-bar {
+  height: 100%;
+  background-color: red;
+  animation: progressBarIncAnimation0 1s linear forwards;
+}
+
+.barInc1 {
+  animation: progressBarIncAnimation1 1s linear forwards;
+}
+
+.barInc2 {
+  animation: progressBarIncAnimation2 1s linear forwards;
+}
+
+.barInc3 {
+  animation: progressBarIncAnimation3 1s linear forwards;
+}
+
+.barInc4 {
+  animation: progressBarIncAnimation4 1s linear forwards;
+}
+
+.barInc5 {
+  animation: progressBarIncAnimation5 1s linear forwards;
+}
+
+@keyframes progressBarIncAnimation0 {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 1%;
+  }
+}
+
+@keyframes progressBarIncAnimation1 {
+  0% {
+    width: 1%;
+  }
+}
+
+@keyframes progressBarIncAnimation2 {
+  0% {
+    width: 20%;
+  }
+}
+
+@keyframes progressBarIncAnimation3 {
+  0% {
+    width: 40%;
+  }
+}
+
+@keyframes progressBarIncAnimation4 {
+  0% {
+    width: 60%;
+  }
+}
+
+@keyframes progressBarIncAnimation5 {
+  0% {
+    width: 80%;
+  }
+}
+
+.barDec5 {
+  animation: progressBarDecAnimation5 1s linear forwards;
+}
+
+@keyframes progressBarDecAnimation5 {
+  0% {
+    width: 100%;
+  }
+}
+
+.barDec4 {
+  animation: progressBarDecAnimation4 1s linear forwards;
+}
+
+@keyframes progressBarDecAnimation4 {
+  0% {
+    width: 100%;
+  }
+}
+
+.barDec3 {
+  animation: progressBarDecAnimation3 1s linear forwards;
+}
+
+@keyframes progressBarDecAnimation3 {
+  0% {
+    width: 80%;
+  }
+}
+
+.barDec2 {
+  animation: progressBarDecAnimation2 1s linear forwards;
+}
+
+@keyframes progressBarDecAnimation2 {
+  0% {
+    width: 60%;
+  }
+}
+
+.barDec1 {
+  animation: progressBarDecAnimation1 1s linear forwards;
+}
+
+@keyframes progressBarDecAnimation1 {
+  0% {
+    width: 40%;
+  }
+}
+
+.barDec0 {
+  animation: progressBarDecAnimation0 1s linear forwards;
+}
+
+@keyframes progressBarDecAnimation0 {
+  0% {
+    width: 20%;
+  }
+  100% {
+    width: 1%;
+  }
+}

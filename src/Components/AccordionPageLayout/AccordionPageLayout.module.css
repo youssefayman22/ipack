@@ -1,0 +1,108 @@
+.Container {
+  margin: 30px auto;
+  margin-bottom: 151px;
+  /* Center the container */
+  width: 50%; /* Responsive width */
+  min-width: 300px;
+  min-height: 664px;
+  border-radius: 6px;
+  box-shadow: 0px -0.5px 8px 0px var(--black);
+  background-color: var(--white);
+  padding-bottom: 142px;
+  position: relative;
+}
+.headerContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.Body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--bodycolor);
+}
+
+.ContainerFlex {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  gap: 15px;
+}
+
+.Body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--bodycolor);
+}
+
+.ContainerFlex {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    gap: 15px;
+}
+
+.Title {
+  margin: 36px 62px 22px 30px;
+  font-size: 28px;
+  font-family: "vodafoneRg";
+  font-weight: 400;
+  color: rgba(13, 13, 13, 1);
+  letter-spacing: 0px;
+  text-align: left;
+  line-height: 34px;
+  overflow-wrap: anywhere;
+}
+
+.NextButton {
+  border-radius: 6px;
+  border: none;
+  opacity: 1;
+  background-color: var(--primary);
+  width: 20%;
+  color: rgba(255, 255, 255, 1);
+  font-family: "vodafoneRg";
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  text-align: center;
+  line-height: 28px;
+  cursor: pointer;
+}
+
+.buttonsContainer {
+  display: flex;
+  width: 100%;
+  padding-inline: 3%;
+  position: absolute;
+  bottom: 25px;
+  justify-content: space-between;
+}
+
+.NextButton:hover {
+  opacity: 0.7;
+}
+
+@media (max-width: 768px) {
+  .Title {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 600px) {
+  .Title {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 400px) {
+  .Title {
+    font-size: 28px;
+  }
+  .NextButton {
+    width: 100px;
+  }
+}

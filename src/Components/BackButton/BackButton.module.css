@@ -1,0 +1,16 @@
+.backButton {
+  border-radius: 6px;
+  border: none;
+  opacity: 1;
+  background-color: var(--primary);
+  width: 20%;
+  height: 44px;
+  color: rgba(255, 255, 255, 1);
+  font-family: "vodafoneRg";
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  text-align: center;
+  line-height: 28px;
+  cursor: pointer;
+}

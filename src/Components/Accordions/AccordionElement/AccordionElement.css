@@ -1,0 +1,38 @@
+.AccordionElementBox {
+  background-color: white;
+  height: fit-content;
+  padding-block: 7px;
+  border-radius: 6px;
+  border: 1px solid rgb(190, 190, 190);
+  opacity: 1;
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.textBox {
+  margin-left: 25px;
+}
+
+.TextElement {
+  height: 24px;
+  opacity: 1;
+  color: hsl(0, 0%, 5%);
+  font-family: vodafoneRg;
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 0px;
+  text-align: left;
+  line-height: 24px;
+}
+
+.DeleteButton {
+  background-color: transparent;
+  border: none;
+  transition: all 0.2s;
+}
+
+.DeleteButton:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}

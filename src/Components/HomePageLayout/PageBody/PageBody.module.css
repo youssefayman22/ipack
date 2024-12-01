@@ -1,0 +1,23 @@
+.homepageBody {
+  background-color: var(--bodycolor);
+  background-repeat: no-repeat;
+  background-position: 90.7% 86.2%;
+  background-size: 194px;
+  background-origin: border-box;
+  min-height: 200px;
+}
+
+/* Mobile-specific */
+@media (max-width: 768px) {
+  .homepageBody {
+    background-size: 109px;
+    background-position: 96% 93%;
+    min-height: 280px;
+  }
+}
+
+@media (max-width: 160px) {
+  .homepageBody {
+    background-position: 50% 93%;
+  }
+}

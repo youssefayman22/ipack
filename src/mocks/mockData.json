@@ -1,0 +1,2385 @@
+{
+  "data": {
+    "documents": [
+      {
+        "id": 1,
+        "isFemale": true,
+        "isMale": false,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": true,
+        "isInternational": false,
+        "item": "National ID"
+      },
+      {
+        "id": 2,
+        "isFemale": true,
+        "isMale": false,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": true,
+        "isInternational": false,
+        "item": "Hotel/Stay Booking Info"
+      },
+      {
+        "id": 3,
+        "isFemale": true,
+        "isMale": false,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": true,
+        "isInternational": false,
+        "item": "Travel Tickets (flight/bus/car driver license)"
+      },
+      {
+        "id": 4,
+        "isFemale": true,
+        "isMale": false,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": true,
+        "isInternational": false,
+        "item": "Emergency docs"
+      },
+      {
+        "id": 5,
+        "isFemale": true,
+        "isMale": false,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": true,
+        "isInternational": false,
+        "item": "Currency/credit cards"
+      },
+      {
+        "id": 6,
+        "isFemale": true,
+        "isMale": false,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": false,
+        "isInternational": true,
+        "item": "Passport"
+      },
+      {
+        "id": 7,
+        "isFemale": true,
+        "isMale": false,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": false,
+        "isInternational": true,
+        "item": "Hotel/Stay Booking Info"
+      },
+      {
+        "id": 8,
+        "isFemale": true,
+        "isMale": false,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": false,
+        "isInternational": true,
+        "item": "Travel Tickets (flight/bus/car driver license)"
+      },
+      {
+        "id": 9,
+        "isFemale": true,
+        "isMale": false,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": false,
+        "isInternational": true,
+        "item": "Emergency docs"
+      },
+      {
+        "id": 10,
+        "isFemale": true,
+        "isMale": false,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": false,
+        "isInternational": true,
+        "item": "Currency/credit cards"
+      },
+      {
+        "id": 11,
+        "isFemale": false,
+        "isMale": true,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": true,
+        "isInternational": false,
+        "item": "National ID"
+      },
+      {
+        "id": 12,
+        "isFemale": false,
+        "isMale": true,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": true,
+        "isInternational": false,
+        "item": "Hotel/Stay Booking Info"
+      },
+      {
+        "id": 13,
+        "isFemale": false,
+        "isMale": true,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": true,
+        "isInternational": false,
+        "item": "Travel Tickets (flight/bus/car driver license)"
+      },
+      {
+        "id": 14,
+        "isFemale": false,
+        "isMale": true,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": true,
+        "isInternational": false,
+        "item": "Emergency docs"
+      },
+      {
+        "id": 15,
+        "isFemale": false,
+        "isMale": true,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": true,
+        "isInternational": false,
+        "item": "Currency/credit cards"
+      },
+      {
+        "id": 16,
+        "isFemale": false,
+        "isMale": true,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": false,
+        "isInternational": true,
+        "item": "Passport"
+      },
+      {
+        "id": 17,
+        "isFemale": false,
+        "isMale": true,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": false,
+        "isInternational": true,
+        "item": "Hotel/Stay Booking Info"
+      },
+      {
+        "id": 18,
+        "isFemale": false,
+        "isMale": true,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": false,
+        "isInternational": true,
+        "item": "Travel Tickets (flight/bus/car driver license)"
+      },
+      {
+        "id": 19,
+        "isFemale": false,
+        "isMale": true,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": false,
+        "isInternational": true,
+        "item": "Emergency docs"
+      },
+      {
+        "id": 20,
+        "isFemale": false,
+        "isMale": true,
+        "isChildren": false,
+        "isPet": false,
+        "isLocal": false,
+        "isInternational": true,
+        "item": "Currency/credit cards"
+      },
+      {
+        "id": 21,
+        "isFemale": false,
+        "isMale": false,
+        "isChildren": false,
+        "isPet": true,
+        "isLocal": true,
+        "isInternational": true,
+        "item": "Pet Travel Passport"
+      },
+      {
+        "id": 22,
+        "isFemale": false,
+        "isMale": false,
+        "isChildren": false,
+        "isPet": true,
+        "isLocal": true,
+        "isInternational": true,
+        "item": "Pet Medical Passport"
+      },
+      {
+        "id": 23,
+        "isFemale": false,
+        "isMale": false,
+        "isChildren": true,
+        "isPet": false,
+        "isLocal": true,
+        "isInternational": false,
+        "item": "National ID"
+      },
+      {
+        "id": 24,
+        "isFemale": false,
+        "isMale": false,
+        "isChildren": true,
+        "isPet": false,
+        "isLocal": true,
+        "isInternational": false,
+        "item": "Hotel/Stay Booking Info"
+      },
+      {
+        "id": 25,
+        "isFemale": false,
+        "isMale": false,
+        "isChildren": true,
+        "isPet": false,
+        "isLocal": true,
+        "isInternational": false,
+        "item": "Travel Tickets (flight/bus/car driver license)"
+      },
+      {
+        "id": 26,
+        "isFemale": false,
+        "isMale": false,
+        "isChildren": true,
+        "isPet": false,
+        "isLocal": true,
+        "isInternational": false,
+        "item": "Emergency docs"
+      },
+      {
+        "id": 27,
+        "isFemale": false,
+        "isMale": false,
+        "isChildren": true,
+        "isPet": false,
+        "isLocal": false,
+        "isInternational": true,
+        "item": "Passport"
+      },
+      {
+        "id": 28,
+        "isFemale": false,
+        "isMale": false,
+        "isChildren": true,
+        "isPet": false,
+        "isLocal": false,
+        "isInternational": true,
+        "item": "Hotel/Stay Booking Info"
+      },
+      {
+        "id": 29,
+        "isFemale": false,
+        "isMale": false,
+        "isChildren": true,
+        "isPet": false,
+        "isLocal": false,
+        "isInternational": true,
+        "item": "Travel Tickets (flight/bus/car driver license)"
+      },
+      {
+        "id": 30,
+        "isFemale": false,
+        "isMale": false,
+        "isChildren": true,
+        "isPet": false,
+        "isLocal": false,
+        "isInternational": true,
+        "item": "Emergency docs"
+      }
+    ],
+    "personalCare": [
+      {
+        "id": 1,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "toothpaste"
+      },
+      {
+        "id": 2,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "toothbrush"
+      },
+      {
+        "id": 3,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "mouthwash"
+      },
+      {
+        "id": 4,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "shampoo"
+      },
+      {
+        "id": 5,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Conditioner"
+      },
+      {
+        "id": 6,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Hair brush"
+      },
+      {
+        "id": 7,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Hair towel"
+      },
+      {
+        "id": 8,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Sunscreen"
+      },
+      {
+        "id": 9,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "After sun care"
+      },
+      {
+        "id": 10,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Moisturizer"
+      },
+      {
+        "id": 11,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Shaving kit"
+      },
+      {
+        "id": 12,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Body deodorant"
+      },
+      {
+        "id": 13,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Perfume"
+      },
+      {
+        "id": 14,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Makeup"
+      },
+      {
+        "id": 15,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Health pads"
+      },
+      {
+        "id": 16,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "toothpaste"
+      },
+      {
+        "id": 17,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "toothbrush"
+      },
+      {
+        "id": 18,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "mouthwash"
+      },
+      {
+        "id": 19,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "shampoo"
+      },
+      {
+        "id": 20,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Conditioner"
+      },
+      {
+        "id": 21,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Hair brush"
+      },
+      {
+        "id": 22,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Hair towel"
+      },
+      {
+        "id": 23,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Sunscreen"
+      },
+      {
+        "id": 24,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "After sun care"
+      },
+      {
+        "id": 25,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Moisturizer"
+      },
+      {
+        "id": 26,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Shaving kit"
+      },
+      {
+        "id": 27,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Body deodorant"
+      },
+      {
+        "id": 28,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Perfume"
+      },
+      {
+        "id": 29,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "toothpaste"
+      },
+      {
+        "id": 30,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "toothbrush"
+      },
+      {
+        "id": 31,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "Baby wipes"
+      },
+      {
+        "id": 32,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "Diapers"
+      },
+      {
+        "id": 33,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "shampoo"
+      },
+      {
+        "id": 34,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "Conditioner"
+      },
+      {
+        "id": 35,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "Hair brush"
+      },
+      {
+        "id": 36,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "Hair towel"
+      },
+      {
+        "id": 37,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "Sunscreen"
+      },
+      {
+        "id": 38,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "After sun care"
+      },
+      {
+        "id": 39,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "Moisturizer"
+      },
+      {
+        "id": 40,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "Perfume"
+      },
+      {
+        "id": 38,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": true,
+        "isChildren": false,
+        "item": "Shampoo"
+      },
+      {
+        "id": 39,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": true,
+        "isChildren": false,
+        "item": "Hairbrush"
+      },
+      {
+        "id": 40,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": true,
+        "isChildren": false,
+        "item": "Towels"
+      }
+    ],
+    "electronics": [
+      {
+        "id": 1,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "Speakers"
+      },
+      {
+        "id": 2,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "Headphones"
+      },
+      {
+        "id": 3,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "Mobile"
+      },
+      {
+        "id": 4,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "Tablet/Kindle"
+      },
+      {
+        "id": 5,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "Chargers"
+      },
+      {
+        "id": 6,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "Adapters"
+      },
+      {
+        "id": 7,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "Laptop"
+      },
+      {
+        "id": 8,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "Camera"
+      },
+      {
+        "id": 9,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "GoPro"
+      },
+      {
+        "id": 10,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "Powebank"
+      },
+      {
+        "id": 11,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "Speakers"
+      },
+      {
+        "id": 12,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "Headphones"
+      },
+      {
+        "id": 13,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "Mobile"
+      },
+      {
+        "id": 14,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "Tablet/Kindle"
+      },
+      {
+        "id": 15,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "Chargers"
+      },
+      {
+        "id": 16,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "Adapters"
+      },
+      {
+        "id": 17,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "Laptop"
+      },
+      {
+        "id": 18,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "Camera"
+      },
+      {
+        "id": 19,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "GoPro"
+      },
+      {
+        "id": 20,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "Powebank"
+      },
+      {
+        "id": 21,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "item": "Tablet"
+      }
+    ],
+    "Medications": [
+      {
+        "id": 1,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "General first-aid kit"
+      },
+      {
+        "id": 2,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Condition Based Meds"
+      },
+      {
+        "id": 3,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Multivitamins"
+      },
+      {
+        "id": 4,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "band aids"
+      },
+      {
+        "id": 5,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "blister relief patches"
+      },
+      {
+        "id": 6,
+        "isMale": false,
+        "isFemale": true,
+        "isPet": false,
+        "isChildren": false,
+        "item": "muscle pain relief creams"
+      },
+      {
+        "id": 7,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "General first-aid kit"
+      },
+      {
+        "id": 8,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Condition Based Meds"
+      },
+      {
+        "id": 9,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "Multivitamins"
+      },
+      {
+        "id": 10,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "band aids"
+      },
+      {
+        "id": 11,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "blister relief patches"
+      },
+      {
+        "id": 12,
+        "isMale": true,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": false,
+        "item": "muscle pain relief creams"
+      },
+      {
+        "id": 13,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "General first-aid kit"
+      },
+      {
+        "id": 14,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "Condition Based Meds"
+      },
+      {
+        "id": 15,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "Multivitamins"
+      },
+      {
+        "id": 16,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "band aids"
+      },
+      {
+        "id": 17,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "blister relief patches"
+      },
+      {
+        "id": 18,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": false,
+        "isChildren": true,
+        "item": "muscle pain relief creams"
+      },
+      {
+        "id": 19,
+        "isMale": false,
+        "isFemale": false,
+        "isPet": true,
+        "isChildren": false,
+        "item": "Condition Based Meds"
+      }
+    ],
+    "outerwearClothes": [
+      {
+        "id": 1,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "Half-sleeve Tshirts"
+      },
+      {
+        "id": 2,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "cut t-shirts"
+      },
+      {
+        "id": 3,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "evening tops"
+      },
+      {
+        "id": 4,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "casual tops"
+      },
+      {
+        "id": 5,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "dresses"
+      },
+      {
+        "id": 6,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "jumpsuits"
+      },
+      {
+        "id": 7,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "Casual Shorts"
+      },
+      {
+        "id": 8,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "Sports shorts"
+      },
+      {
+        "id": 9,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "skirts"
+      },
+      {
+        "id": 10,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "sweat pants"
+      },
+      {
+        "id": 11,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "Jeans"
+      },
+      {
+        "id": 12,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "tailored trousers"
+      },
+      {
+        "id": 13,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "walking sneakers"
+      },
+      {
+        "id": 14,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "flats"
+      },
+      {
+        "id": 15,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "sandals"
+      },
+      {
+        "id": 16,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "fancy sneakers/shoes"
+      },
+      {
+        "id": 17,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "handbags"
+      },
+      {
+        "id": 18,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "backpack"
+      },
+      {
+        "id": 19,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "sunglasses"
+      },
+      {
+        "id": 20,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "socks"
+      },
+      {
+        "id": 21,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "scarves"
+      },
+      {
+        "id": 22,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "belts"
+      },
+      {
+        "id": 23,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "jewelery"
+      },
+      {
+        "id": 24,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "watch"
+      },
+      {
+        "id": 25,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Long-sleeve Tshirts"
+      },
+      {
+        "id": 26,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Thermals"
+      },
+      {
+        "id": 27,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Pullovers"
+      },
+      {
+        "id": 28,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "hoodies"
+      },
+      {
+        "id": 29,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Jackets"
+      },
+      {
+        "id": 30,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Rain coats"
+      },
+      {
+        "id": 31,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "evening tops"
+      },
+      {
+        "id": 32,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "casual tops"
+      },
+      {
+        "id": 33,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "dresses"
+      },
+      {
+        "id": 34,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "jumpsuits"
+      },
+      {
+        "id": 35,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Thermal Pants"
+      },
+      {
+        "id": 36,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "sweat pants"
+      },
+      {
+        "id": 37,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Jeans"
+      },
+      {
+        "id": 38,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "skirts"
+      },
+      {
+        "id": 39,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "tailored trousers"
+      },
+      {
+        "id": 40,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "walking sneakers"
+      },
+      {
+        "id": 41,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "fancy sneakers/shoes"
+      },
+      {
+        "id": 42,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "handbags"
+      },
+      {
+        "id": 43,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "backpack"
+      },
+      {
+        "id": 44,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "sunglasses"
+      },
+      {
+        "id": 45,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "scarves"
+      },
+      {
+        "id": 46,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "socks"
+      },
+      {
+        "id": 47,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "tights"
+      },
+      {
+        "id": 48,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "belts"
+      },
+      {
+        "id": 49,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "jewelery"
+      },
+      {
+        "id": 50,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "gloves"
+      },
+      {
+        "id": 51,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "watch"
+      },
+      {
+        "id": 52,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "umbrella"
+      },
+      {
+        "id": 53,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "Tshirts"
+      },
+      {
+        "id": 54,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "summer shirts"
+      },
+      {
+        "id": 55,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "fancy shirts"
+      },
+      {
+        "id": 56,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "Casual Shorts"
+      },
+      {
+        "id": 57,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "Sports shorts"
+      },
+      {
+        "id": 58,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "sweat pants"
+      },
+      {
+        "id": 59,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "Jeans"
+      },
+      {
+        "id": 60,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "tailored trousers"
+      },
+      {
+        "id": 61,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "walking sneakers"
+      },
+      {
+        "id": 62,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "fancy sneakers/shoes"
+      },
+      {
+        "id": 63,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "backpack"
+      },
+      {
+        "id": 64,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "sunglasses"
+      },
+      {
+        "id": 65,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "socks"
+      },
+      {
+        "id": 66,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "belts"
+      },
+      {
+        "id": 67,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "gloves"
+      },
+      {
+        "id": 68,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "watch"
+      },
+      {
+        "id": 69,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Long-sleeve Tshirts"
+      },
+      {
+        "id": 70,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "shirts"
+      },
+      {
+        "id": 71,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Thermals"
+      },
+      {
+        "id": 72,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Pullovers"
+      },
+      {
+        "id": 73,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "hoodies"
+      },
+      {
+        "id": 74,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Jackets"
+      },
+      {
+        "id": 75,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Rain coats"
+      },
+      {
+        "id": 76,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "fancy shirts"
+      },
+      {
+        "id": 77,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Thermal Pants"
+      },
+      {
+        "id": 78,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "sweat pants"
+      },
+      {
+        "id": 79,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Jeans"
+      },
+      {
+        "id": 80,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "tailored trousers"
+      },
+      {
+        "id": 81,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Boots"
+      },
+      {
+        "id": 82,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "walking sneakers"
+      },
+      {
+        "id": 83,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "fancy sneakers/shoes"
+      },
+      {
+        "id": 84,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "backpack"
+      },
+      {
+        "id": 85,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "sunglasses"
+      },
+      {
+        "id": 86,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "socks"
+      },
+      {
+        "id": 87,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "belts"
+      },
+      {
+        "id": 88,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "gloves"
+      },
+      {
+        "id": 89,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "watch"
+      },
+      {
+        "id": 90,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "umbrella"
+      },
+      {
+        "id": 91,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": true,
+        "item": "Walking Shoes"
+      },
+      {
+        "id": 92,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": false,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": true,
+        "item": "Rain Coat"
+      },
+      {
+        "id": 93,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "Half-sleeve Tshirts"
+      },
+      {
+        "id": 94,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "cut t-shirts"
+      },
+      {
+        "id": 95,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "dresses"
+      },
+      {
+        "id": 96,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "overalls"
+      },
+      {
+        "id": 97,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "Casual Shorts"
+      },
+      {
+        "id": 98,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "skirts"
+      },
+      {
+        "id": 99,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "leggings"
+      },
+      {
+        "id": 100,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "sweat pants"
+      },
+      {
+        "id": 101,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "Jeans"
+      },
+      {
+        "id": 102,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "sneakers"
+      },
+      {
+        "id": 103,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "shoes"
+      },
+      {
+        "id": 104,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "fancy sneakers/shoes"
+      },
+      {
+        "id": 105,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "backpack"
+      },
+      {
+        "id": 106,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "diaper bag"
+      },
+      {
+        "id": 107,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "sunglasses"
+      },
+      {
+        "id": 108,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": false,
+        "isSummer": true,
+        "isPet": false,
+        "item": "socks"
+      },
+      {
+        "id": 109,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Long-sleeve Tshirts"
+      },
+      {
+        "id": 110,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Thermals"
+      },
+      {
+        "id": 111,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Pullovers"
+      },
+      {
+        "id": 112,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "hoodies"
+      },
+      {
+        "id": 113,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Jackets"
+      },
+      {
+        "id": 114,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Rain coats"
+      },
+      {
+        "id": 115,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "overalls"
+      },
+      {
+        "id": 116,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "dresses"
+      },
+      {
+        "id": 117,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Thermal Pants"
+      },
+      {
+        "id": 118,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "sweat pants"
+      },
+      {
+        "id": 119,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Jeans"
+      },
+      {
+        "id": 120,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "shirts"
+      },
+      {
+        "id": 121,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "Boots"
+      },
+      {
+        "id": 122,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "sneakers"
+      },
+      {
+        "id": 123,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "fancy sneakers/shoes"
+      },
+      {
+        "id": 124,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "backpack"
+      },
+      {
+        "id": 125,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "diaper bag"
+      },
+      {
+        "id": 126,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "sunglasses"
+      },
+      {
+        "id": 127,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "socks"
+      },
+      {
+        "id": 128,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "tights"
+      },
+      {
+        "id": 129,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "gloves"
+      },
+      {
+        "id": 130,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "isWinter": true,
+        "isSummer": false,
+        "isPet": false,
+        "item": "umbrella"
+      }
+    ],
+    "homewearClothes": [
+      {
+        "id": 1,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "Undergarments"
+      },
+      {
+        "id": 2,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "Pjs"
+      },
+      {
+        "id": 3,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "Nightgown"
+      },
+      {
+        "id": 4,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "Sleep mask"
+      },
+      {
+        "id": 5,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "Home socks"
+      },
+      {
+        "id": 6,
+        "isMale": false,
+        "isFemale": true,
+        "isChildren": false,
+        "item": "Slippers"
+      },
+      {
+        "id": 1,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "Undergarments"
+      },
+      {
+        "id": 2,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "Pjs"
+      },
+      {
+        "id": 3,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "Nightgown"
+      },
+      {
+        "id": 4,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "Sleep mask"
+      },
+      {
+        "id": 5,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "Home socks"
+      },
+      {
+        "id": 6,
+        "isMale": true,
+        "isFemale": false,
+        "isChildren": false,
+        "item": "Slippers"
+      },
+      {
+        "id": 1,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "item": "Undergarments"
+      },
+      {
+        "id": 2,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "item": "Pjs"
+      },
+      {
+        "id": 3,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "item": "Nightgown"
+      },
+      {
+        "id": 4,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "item": "Sleep mask"
+      },
+      {
+        "id": 5,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "item": "Home socks"
+      },
+      {
+        "id": 6,
+        "isMale": false,
+        "isFemale": false,
+        "isChildren": true,
+        "item": "Slippers"
+      }
+    ]
+  }
+}

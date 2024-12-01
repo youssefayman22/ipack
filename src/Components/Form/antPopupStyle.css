@@ -1,0 +1,13 @@
+
+:where(.css-dev-only-do-not-override-1c0na6j).ant-popover  {
+  max-width: 80vw !important;
+  top:100px
+}
+
+.ant-popover-content {
+  padding-block:5vh
+}
+
+.ant-btn-primary{
+  background-color: var(--primary) !important;
+}

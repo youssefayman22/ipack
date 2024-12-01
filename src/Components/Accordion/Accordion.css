@@ -1,0 +1,112 @@
+:root {
+  --border-color: red;
+  --icon-color: #000;
+  --hover-bg-color: #eee;
+  --content-bg-color: #ffffff;
+  --remove-icon-color: red;
+}
+
+.accordion {
+  width: 95%;
+  margin: 0 auto;
+  padding: 0 !important;
+  border: none;
+}
+
+.accordion-panel {
+  border: none;
+}
+
+.accordion-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  border-radius: 4px;
+  position: relative;
+  border: 1px solid transparent;
+  transition: border-color 0.3s ease;
+}
+
+.ant-collapse-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-grow: 1;
+  background-color: var(--content-bg-color);
+  border-radius: 8px !important;
+}
+
+.ant-collapse-expand-icon {
+  color: var(--icon-color);
+  transition: color 0.3s ease;
+}
+
+.ant-collapse-item-active > .ant-collapse-header {
+  border-color: var(--border-color);
+}
+
+.ant-collapse-item-active > .ant-collapse-header .ant-collapse-expand-icon {
+  color: var(--border-color);
+}
+
+.accordion-content-item {
+  border: 1px solid var(--content-bg-color);
+  padding: 8px;
+  margin: 5px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  background-color: var(--content-bg-color);
+}
+
+.accordion-content-item:hover {
+  background-color: var(--hover-bg-color);
+}
+
+.remove-icon {
+  color: var(--remove-icon-color);
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.ant-collapse-item-active > .ant-collapse-header {
+  border: 1px solid var(--border-color);
+  color: var(--border-color);
+}
+
+.ant-collapse-header {
+  border: 1px solid var(--icon-color);
+}
+
+.accordionElementContainer {
+  margin-block: 10px;
+}
+
+.ant-collapse-content-box,
+.ant-collapse-content-active {
+  border: none;
+}
+
+:where(.css-dev-only-do-not-override-1c0na6j).ant-collapse
+  .ant-collapse-content
+  > .ant-collapse-content-box {
+  padding: 0;
+}
+:where(.css-dev-only-do-not-override-1c0na6j).ant-collapse
+  .ant-collapse-content {
+  border: none;
+}
+
+.TextElement {
+  height: 24px;
+  opacity: 1;
+  color: hsl(0, 0%, 5%);
+  font-family: vodafoneRg;
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 0px;
+  text-align: left;
+  line-height: 24px;
+}

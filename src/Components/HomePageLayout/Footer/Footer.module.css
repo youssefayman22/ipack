@@ -1,0 +1,12 @@
+.footerContainer {
+  height: 114px;
+  background-color: var(--black);
+  position: relative;
+}
+
+/* Mobile-specific */
+@media (max-width: 768px) {
+  .footerContainer {
+    height: 80px;
+  }
+}

@@ -1,0 +1,35 @@
+.formColumn {
+  flex: 1 1 100%;
+}
+
+.formContainer {
+  padding: 3%;
+  max-width: 80%;
+  margin: auto;
+  padding-bottom:50vh;
+}
+
+.formLabel {
+  opacity: 1;
+  color: var(--title-color);
+  font-size: 0.9rem;
+  font-weight: 400;
+  letter-spacing: 0px;
+  text-align: left;
+  line-height: 18px;
+  font-family: 'Arial';
+  margin-bottom: 30px !important;
+}
+.nextButtonContainer {
+  display: flex;
+  justify-content: flex-end;
+  max-width: 388px;
+  margin-top: 3%;
+}
+
+@media (max-width: 768px) {
+  .nextButtonContainer {
+    margin-top: 2%;
+    justify-content: flex-start;
+  }
+}

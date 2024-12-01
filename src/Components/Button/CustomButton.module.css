@@ -1,0 +1,26 @@
+@import "../../assets/app.css";
+
+.btnPrimary {
+  background-color: var(--primary);
+  border-color: transparent !important;
+  padding-inline: 3%;
+  color: var(--white) !important;
+}
+
+.btnPrimary:hover {
+  background-color: var(--darkred) !important;
+  border-color: transparent !important;
+  color: var(--white) !important;
+}
+
+.btnPrimary:active {
+  background-color: var(--darkred) !important;
+  border-color: transparent !important;
+  color: var(--white) !important;
+}
+
+.btnPrimary[disabled] {
+  background-color: var(--lightgray) !important;
+  border-color: transparent !important;
+  color: var(--white) !important;
+}
